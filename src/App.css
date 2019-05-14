@@ -1,0 +1,12 @@
+html,
+body,
+#root,
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App {
+  margin: 15px;
+}
