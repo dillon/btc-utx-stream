@@ -1,5 +1,5 @@
 {
-  "name": "symbiont-challenge",
+  "name": "btc-utx-stream",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
