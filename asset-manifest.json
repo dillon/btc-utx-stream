@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/btc-utx-stream/static/css/main.d5bdd785.chunk.css",
+    "main.js": "/btc-utx-stream/static/js/main.5838706f.chunk.js",
+    "main.js.map": "/btc-utx-stream/static/js/main.5838706f.chunk.js.map",
+    "runtime~main.js": "/btc-utx-stream/static/js/runtime~main.b1c8fffa.js",
+    "runtime~main.js.map": "/btc-utx-stream/static/js/runtime~main.b1c8fffa.js.map",
+    "static/js/2.bcd4c6bf.chunk.js": "/btc-utx-stream/static/js/2.bcd4c6bf.chunk.js",
+    "static/js/2.bcd4c6bf.chunk.js.map": "/btc-utx-stream/static/js/2.bcd4c6bf.chunk.js.map",
+    "index.html": "/btc-utx-stream/index.html",
+    "precache-manifest.ae6b2d1efce82b45d7a595b010e13976.js": "/btc-utx-stream/precache-manifest.ae6b2d1efce82b45d7a595b010e13976.js",
+    "service-worker.js": "/btc-utx-stream/service-worker.js",
+    "static/css/main.d5bdd785.chunk.css.map": "/btc-utx-stream/static/css/main.d5bdd785.chunk.css.map"
+  }
+}
